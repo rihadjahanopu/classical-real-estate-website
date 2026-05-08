@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-jungle-green: hsl(188, 63%, 7%);
+  --color-prussian-blue: hsl(200, 69%, 14%);
+  --color-raisin-black-1: hsl(227, 29%, 13%);
+  --color-raisin-black-2: hsl(229, 17%, 19%);
+  --color-yellow-green: hsl(89, 72%, 45%);
+  --color-orange-soda: hsl(9, 100%, 62%);
+  --color-cultured-1: hsl(0, 0%, 93%);
+  --color-cultured-2: hsl(192, 24%, 96%);
+  --color-misty-rose: hsl(7, 56%, 91%);
+  --color-alice-blue: hsl(210, 100%, 97%);
+  --color-seashell: hsl(8, 100%, 97%);
+  --color-cadet: hsl(200, 15%, 43%);
+  --color-opal: hsl(180, 20%, 62%);
+
+  --font-nunito: var(--font-nunito-sans);
+  --font-poppins: var(--font-poppins);
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-nunito);
+}
