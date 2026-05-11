@@ -6,6 +6,12 @@ Homeverse is a premium, high-performance real estate marketplace built with **Ne
 
 ---
 
+## 🚀 Live Demo
+
+Check out the live site: [Classical Real Estate Website](https://classical-real-estate-website.vercel.app/)
+
+---
+
 ## ✨ Features
 
 - 🚀 **High Performance**: Built with Next.js 15 and React 19 for blazing fast page loads.
@@ -40,11 +46,13 @@ Homeverse is a premium, high-performance real estate marketplace built with **Ne
 ### Installation
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/classical-real-estate-website.git
    ```
 
 2. **Navigate to the project directory:**
+
    ```bash
    cd classical-real-estate-website
    ```
@@ -57,9 +65,11 @@ Homeverse is a premium, high-performance real estate marketplace built with **Ne
 ### Running the Application
 
 To start the development server:
+
 ```bash
 npm run dev
 ```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ---
@@ -84,9 +94,9 @@ src/
 
 ## 📸 Screenshots
 
-| Desktop View | Mobile View |
-| :--- | :--- |
-| ![Desktop](/public/assets/images/hero-banner.png) | *(Optimized for Mobile)* |
+| Desktop View                                      | Mobile View              |
+| :------------------------------------------------ | :----------------------- |
+| ![Desktop](/public/assets/images/hero-banner.png) | _(Optimized for Mobile)_ |
 
 ---
 
@@ -110,9 +120,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Rihad Jahan Opu** - [@rihadjahanopu](https://github.com/rihadjahanopu)  
+**Rihad Jahan Opu** - [@rihadjahanopu](https://github.com/rihadjahanopu)
 Project Link: [https://github.com/rihadjahanopu/classical-real-estate-website](https://github.com/rihadjahanopu/classical-real-estate-website)
 
 ---
 
-*Made with ❤️ for the Real Estate Community*
+_Made with ❤️ for the Real Estate Community_
